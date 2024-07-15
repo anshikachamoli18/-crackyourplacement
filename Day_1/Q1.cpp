@@ -18,7 +18,6 @@ public:
             s = nums[s];
             f = nums[f];
         }
-
         return s;
     }
 };
